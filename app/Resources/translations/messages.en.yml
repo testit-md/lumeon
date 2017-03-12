@@ -1,0 +1,2 @@
+already_linked: "Desired patient have been already linked to the doctor"
+successfully_linked: "Patient %s has been saved against doctor %s"
